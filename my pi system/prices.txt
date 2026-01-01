@@ -1,0 +1,6 @@
+chocolate:20
+eno:10
+mentos packet:15
+nescafe packet:50
+stix:25
+toffee:5
